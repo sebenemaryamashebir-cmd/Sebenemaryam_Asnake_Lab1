@@ -2,7 +2,9 @@
 Lab 1: Drone Pathfinding Using Search Algorithms
 
 Student: Sebenemaryam Ashebir
+
 Course: Intro to AI
+
 Cohort: C
 
 Overview
